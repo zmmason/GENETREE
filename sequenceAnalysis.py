@@ -2,7 +2,6 @@
 # University of California, Santa Cruz
 # Biomolecular Engineering and Bioinformatics
 # Name: Zachary Mason (zmmason), Justin Chan (jumchan)
-# Group Members: None
 
 
 class ProteinParam:
